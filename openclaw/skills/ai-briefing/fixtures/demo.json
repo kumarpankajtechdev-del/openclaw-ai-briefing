@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Demo learning card: build a stateful agent workflow",
+    "url": "https://docs.langchain.com/oss/python/langgraph/overview",
+    "source": "LangChain",
+    "age_hours": 5,
+    "excerpt": "Fictional demo text for testing curation: agent state, tool calls and evaluation can be explored in a small Python workflow."
+  },
+  {
+    "title": "Demo learning card: structured model output",
+    "url": "https://developers.openai.com/api/docs/guides/structured-outputs",
+    "source": "OpenAI",
+    "age_hours": 10,
+    "excerpt": "Fictional demo text for testing curation: validate a model response against a schema and evaluate handling of incomplete results."
+  },
+  {
+    "title": "Demo learning card: practical model inference",
+    "url": "https://huggingface.co/docs/transformers/index",
+    "source": "Hugging Face",
+    "age_hours": 16,
+    "excerpt": "Fictional demo text for testing curation: compare model inference inputs and outputs, then record latency and a failure case."
+  },
+  {
+    "title": "Demo learning card: retrieval experiments",
+    "url": "https://docs.langchain.com/oss/python/langchain/retrieval",
+    "source": "LangChain",
+    "age_hours": 20,
+    "excerpt": "Fictional demo text for testing curation: build retrieval over a few documents and evaluate which sources support an answer."
+  },
+  {
+    "title": "Demo learning card: structured model output",
+    "url": "https://developers.openai.com/api/docs/guides/structured-outputs?utm_source=duplicate",
+    "source": "OpenAI",
+    "age_hours": 10,
+    "excerpt": "Duplicate fictional fixture for the deduplication check."
+  },
+  {
+    "title": "Old demo card that should be excluded",
+    "url": "https://huggingface.co/blog/old-demo",
+    "source": "Hugging Face",
+    "age_hours": 1000,
+    "excerpt": "Old fictional agent model fixture for freshness testing."
+  }
+]
